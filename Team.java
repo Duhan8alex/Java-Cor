@@ -37,6 +37,6 @@ public class Team {
     }
 
     private void printDivider() {
-        System.out.println("-----------------------------------------------------------");
+        System.out.println("---")
     }
 }
